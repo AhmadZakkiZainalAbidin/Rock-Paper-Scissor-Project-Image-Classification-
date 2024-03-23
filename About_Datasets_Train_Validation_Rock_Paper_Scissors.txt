@@ -1,0 +1,3 @@
+Imported File Link (that use in this project):
+
+https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
